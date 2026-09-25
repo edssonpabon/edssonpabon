@@ -41,7 +41,7 @@ He enfocado mi trayectoria senior en plataformas transaccionales de alto volumen
 * Diseño y construcción de sistemas de alto tráfico orientados a la escalabilidad y máximo rendimiento de la compañía.
 
 #### **INTERRAPIDISIMO — Senior Software Engineer**
-*Nov 2022 - Abr 2022 (Híbrido)*
+*Nov 2022 - Abr 2023 (Híbrido)*
 * Desarrollo y mantenimiento de soluciones empresariales internas enfocadas en logística y tracking mediante arquitecturas sólidas y APIs REST.
 
 #### **BNP PARIBAS CARDIF — Especialista Full Stack Senior**
