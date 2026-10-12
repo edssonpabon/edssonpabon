@@ -1,5 +1,5 @@
 # ¡Hola! Soy Edsson Darío Pabón Bustos 👋
-### Technical Product Manager | Tech Lead | Senior Software Engineer
+### Technical Product Manager | Tech Lead | Senior Software Engineer | databases specialist
 
 ---
 
