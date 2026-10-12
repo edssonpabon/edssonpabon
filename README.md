@@ -14,7 +14,7 @@ He enfocado mi trayectoria senior en plataformas transaccionales de alto volumen
 | :--- | :--- |
 | 👔 **LinkedIn** | https://www.linkedin.com/in/edsson-dario-pabon-bustos/ |
 | ✉️ **Correo Electrónico** | edsson.pabon@gmail.com |
-| 💬 **WhatsApp / Celular** | +57 313 841 4902 |
+| 💬 **WhatsApp / Celular** | +57 3209315920 |
 | 📍 **Ubicación** | Boyacá, Colombia (Disponible para Remoto / Híbrido Bogotá)
 
 ### 🛠️ Tecnologías y Herramientas
